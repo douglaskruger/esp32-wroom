@@ -6,7 +6,7 @@
    the expressed written permission of Skynet Consulting Ltd.
    =============================================================================
 */
-static const char module_id[] __attribute__((used)) = "$Id: set_gpio.c $";
+static const char module_id[] __attribute__((used)) = "$Id: esp32_spi_hall_effect.c $";
 
 /*
  * Description:
